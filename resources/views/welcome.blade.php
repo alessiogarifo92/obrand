@@ -12,6 +12,11 @@
         <style media="screen">
           .alert{
             color: red;
+            text-align: center;
+          }
+
+          body{
+            text-align: center;
           }
         </style>
     </head>
@@ -41,6 +46,6 @@
 
         <button type="submit">cerca</button>
       </form>
-      
+
     </body>
 </html>
